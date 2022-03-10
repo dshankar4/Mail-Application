@@ -1,6 +1,6 @@
 # Mail-Application
 A webapp that allows admin to add user with their details. It also allows the admin to send an email to the selected users with the weather in their city mentioned.
-
+This application is developed using Django.
 ## Deployment
 https://shankarnarayanand.pythonanywhere.com/admin
 
